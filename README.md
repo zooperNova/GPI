@@ -12,12 +12,6 @@ The Arch Linux Graphical Package Installer is an easy-to-use application designe
 - **User-friendly Interface:** Clean and intuitive design for a seamless user experience.
 - **Repository Management:** Add, remove, and manage repositories easily.
 
-## Requirements
-
-- Arch Linux or an Arch-based distribution
-- GTK or Qt libraries (depending on the GUI framework used)
-- Python (if the application is developed in Python)
-- Root privileges for installing and managing packages
 
 ## Installation
 
