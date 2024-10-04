@@ -1,0 +1,22 @@
+# ninja log v5
+1	14	1728035418506844700	GPI_autogen/timestamp	738ff03044bd6c9
+1	14	1728035418506844700	GPI_autogen/mocs_compilation.cpp	738ff03044bd6c9
+1	14	1728035418506844700	/home/zoopernova/Work/Projects/GPI/cmake-build-debug/GPI_autogen/timestamp	738ff03044bd6c9
+1	14	1728035418506844700	/home/zoopernova/Work/Projects/GPI/cmake-build-debug/GPI_autogen/mocs_compilation.cpp	738ff03044bd6c9
+14	22	1728035418516844886	CMakeFiles/GPI.dir/GPI_autogen/mocs_compilation.cpp.o	270fdd5873a919ce
+14	234	1728035418726848788	CMakeFiles/GPI.dir/main.cpp.o.ddi	43c1ac17266cced1
+234	236	1728035418730182182	CMakeFiles/GPI.dir/CXX.dd	9260289a9b656f9c
+234	236	1728035418730182182	/home/zoopernova/Work/Projects/GPI/cmake-build-debug/CMakeFiles/GPI.dir/CXXModules.json	9260289a9b656f9c
+234	236	1728035418730182182	CMakeFiles/GPI.dir/main.cpp.o.modmap	9260289a9b656f9c
+236	2035	1728035420526882241	CMakeFiles/GPI.dir/main.cpp.o	5e3b7a7cf9c68585
+2036	2188	1728035420680218424	GPI	a5254d7c1e75b955
+2	9	1728035448990744688	GPI_autogen/timestamp	738ff03044bd6c9
+2	9	1728035448990744688	GPI_autogen/mocs_compilation.cpp	738ff03044bd6c9
+2	9	1728035448990744688	/home/zoopernova/Work/Projects/GPI/cmake-build-debug/GPI_autogen/timestamp	738ff03044bd6c9
+2	9	1728035448990744688	/home/zoopernova/Work/Projects/GPI/cmake-build-debug/GPI_autogen/mocs_compilation.cpp	738ff03044bd6c9
+9	244	1728035449224082360	CMakeFiles/GPI.dir/main.cpp.o.ddi	43c1ac17266cced1
+244	248	1728035449230749149	CMakeFiles/GPI.dir/CXX.dd	9260289a9b656f9c
+244	248	1728035449230749149	/home/zoopernova/Work/Projects/GPI/cmake-build-debug/CMakeFiles/GPI.dir/CXXModules.json	9260289a9b656f9c
+244	248	1728035449230749149	CMakeFiles/GPI.dir/main.cpp.o.modmap	9260289a9b656f9c
+248	2035	1728035451017449037	CMakeFiles/GPI.dir/main.cpp.o	5e3b7a7cf9c68585
+2035	2170	1728035451150784849	GPI	a5254d7c1e75b955
